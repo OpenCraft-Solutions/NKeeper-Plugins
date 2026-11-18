@@ -80,6 +80,11 @@
       "id": "kvm",
       "repository": "OpenCraft-Solutions/NKeeper-Plugin-KVM",
       "summary": "KVM hypervisors: virtual machines, power and VNC consoles"
+    },
+    {
+      "id": "proxmox",
+      "repository": "OpenCraft-Solutions/NKeeper-Plugin-Proxmox",
+      "summary": "Proxmox VE clusters: virtual machines, power and VNC consoles"
     }
   ]
 }
