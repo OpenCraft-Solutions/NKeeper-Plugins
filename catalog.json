@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "plugins": [
+    { "id": "ssh", "repository": "OpenCraft-Solutions/NKeeper-Plugin-SSH", "summary": "SSH terminals in the browser" },
+    { "id": "web", "repository": "OpenCraft-Solutions/NKeeper-Plugin-Web", "summary": "Web interfaces, opened through NKeeper" },
+    { "id": "desktop", "repository": "OpenCraft-Solutions/NKeeper-Plugin-Desktop", "summary": "Remote desktops (RDP) through guacd" },
+    { "id": "wake-on-lan", "repository": "OpenCraft-Solutions/NKeeper-Plugin-WakeOnLan", "summary": "Wakes hosts with a magic packet" },
+    { "id": "telnet", "repository": "OpenCraft-Solutions/NKeeper-Plugin-Telnet", "summary": "Telnet terminals" },
+    { "id": "vnc", "repository": "OpenCraft-Solutions/NKeeper-Plugin-VNC", "summary": "VNC desktops through guacd" },
+    { "id": "linux", "repository": "OpenCraft-Solutions/NKeeper-Plugin-Linux", "summary": "Linux hosts: status, services, processes and the scanner" },
+    { "id": "storage", "repository": "OpenCraft-Solutions/NKeeper-Plugin-Storage", "summary": "DRBD, iSCSI and multipath" },
+    { "id": "windows", "repository": "OpenCraft-Solutions/NKeeper-Plugin-Windows", "summary": "Windows hosts: event logs and services over WMI" },
+    { "id": "idrac", "repository": "OpenCraft-Solutions/NKeeper-Plugin-iDRAC", "summary": "Dell iDRAC: status, power and RACADM" },
+    { "id": "db-core", "repository": "OpenCraft-Solutions/NKeeper-Plugin-DbCore", "summary": "The database tab the database engines share" },
+    { "id": "mssql", "repository": "OpenCraft-Solutions/NKeeper-Plugin-MSSQL", "summary": "SQL Server: queries, objects and blocking" },
+    { "id": "oracle", "repository": "OpenCraft-Solutions/NKeeper-Plugin-Oracle", "summary": "Oracle Database: queries, objects and blocking" },
+    { "id": "ase", "repository": "OpenCraft-Solutions/NKeeper-Plugin-ASE", "summary": "SAP ASE: queries, objects and blocking" },
+    { "id": "virt-core", "repository": "OpenCraft-Solutions/NKeeper-Plugin-VirtCore", "summary": "The guests tab the hypervisor plugins share" }
+  ]
+}
