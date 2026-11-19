@@ -85,6 +85,11 @@
       "id": "proxmox",
       "repository": "OpenCraft-Solutions/NKeeper-Plugin-Proxmox",
       "summary": "Proxmox VE clusters: virtual machines, power and VNC consoles"
+    },
+    {
+      "id": "zabbix",
+      "repository": "OpenCraft-Solutions/NKeeper-Plugin-Zabbix",
+      "summary": "Zabbix: a host's availability, problems and latest values, and linking hosts"
     }
   ]
 }
