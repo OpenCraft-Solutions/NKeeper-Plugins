@@ -90,6 +90,16 @@
       "id": "zabbix",
       "repository": "OpenCraft-Solutions/NKeeper-Plugin-Zabbix",
       "summary": "Zabbix: a host's availability, problems and latest values, and linking hosts"
+    },
+    {
+      "id": "network-scan",
+      "repository": "OpenCraft-Solutions/NKeeper-Plugin-NetworkScan",
+      "summary": "Port scans of a host, and network scans of a subnet, from the NKeeper server"
+    },
+    {
+      "id": "reports-ip",
+      "repository": "OpenCraft-Solutions/NKeeper-Plugin-ReportsIp",
+      "summary": "The IP address report: every host by IPv4 address, by subnet"
     }
   ]
 }
